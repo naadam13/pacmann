@@ -20,38 +20,38 @@ Tujuan dari pengerjaan project ini adalah untuk membangun suatu program aplikasi
 ## Penjelasan Code
 1. Library
 
-![Library Pandas](images\library.png)
+![Library Pandas](https://github.com/naadam13/pacmann/blob/1e65587182ca9887278f136cb6b2953f3489eac4/Python/images/library.png)
 
 Library yang digunakan hanyalah library pandas
 
 2. Class
 
-![Class Transaction](images\class.png)
+![Class Transaction](https://github.com/naadam13/pacmann/blob/1e65587182ca9887278f136cb6b2953f3489eac4/Python/images/class.png)
 
 Class yang dibangun adalah Class Transaction yang menginisiasi pembentukan DataFrame yang berisi kolom nama, jumlah, harga satuan, dan total harga. Terdapat beberapa fungsi di dalam Class ini yang menjadi fitur utama dalam program ini.
 
 3. While loop
 
-![While loop](images\while_loop.png)
+![While loop](https://github.com/naadam13/pacmann/blob/1e65587182ca9887278f136cb6b2953f3489eac4/Python/images/while_loop.png)
 
 While loop dipakai untuk membantu pengguna memilih fitur-fitur yang ada pada program dan menjaga program tetap terus berjalan sampai pengguna sendiri yang mengakhirinya.
 
 ## Hasil Test Case
 1. Add Item/Tambah Item
 
-![Add Item/Tambah Item](images\add_item.png)
+![Add Item/Tambah Item](https://github.com/naadam13/pacmann/blob/1e65587182ca9887278f136cb6b2953f3489eac4/Python/images/add_item.png)
 
 2. Delete Item/Hapus Item
 
-![Delete Item/Hapus Item](images\delete_item.png)
+![Delete Item/Hapus Item](https://github.com/naadam13/pacmann/blob/1e65587182ca9887278f136cb6b2953f3489eac4/Python/images/delete_item.png)
 
 3. Reset Transaction/Reset Transaksi
 
-![Reset Transaction/Reset Transaksi](images\reset_transaction.png)
+![Reset Transaction/Reset Transaksi](https://github.com/naadam13/pacmann/blob/1e65587182ca9887278f136cb6b2953f3489eac4/Python/images/reset_transaction.png)
 
 4. Total Price/Total Harga
 
-![Total Price/Total Harga](images\total_price.png)
+![Total Price/Total Harga](https://github.com/naadam13/pacmann/blob/1e65587182ca9887278f136cb6b2953f3489eac4/Python/images/total_price.png)
 
 ## Konklusi
 Program cashier.py adalah program aplikasi kasir secara sederhana menggunakan bahasa pemrograman Python. Secara umum, program ini dapat mengerjakan hal-hal dasar selayaknya mesin kasir seperti menambah item, mengganti jumlah, mengganti harga, dll. Ke depannya, program ini dapat dikembangkan agar dapat memindai QR code ataupun barcode agar memudahkan pengguna untuk memasukkan nama item ataupun harga satuannya.
